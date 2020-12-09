@@ -75,8 +75,6 @@ CloudFront Distribution settings
 
 The CloudFront Distribution has **two Origins**, pointing the _Main_ and _Experiment_ sources. Both S3 bucket in our example and both with access restricted by Origin Access Identity.
 
-<img alt="Image for post" class="t u v hw aj" src="https://miro.medium.com/max/4068/1\*pzZ7g-1KeYAaklg00bE0LA.png" width="2034" height="582" srcSet="https://miro.medium.com/max/552/1\*pzZ7g-1KeYAaklg00bE0LA.png 276w, https://miro.medium.com/max/1104/1\*pzZ7g-1KeYAaklg00bE0LA.png 552w, https://miro.medium.com/max/1280/1\*pzZ7g-1KeYAaklg00bE0LA.png 640w, https://miro.medium.com/max/1400/1\*pzZ7g-1KeYAaklg00bE0LA.png 700w" sizes="700px"/>
-
 CloudFront Distribution, Origins
 
 The `Default(*)` **Behaviour** points the _Main_ Origin.  
