@@ -4,6 +4,7 @@
 const sourceCoookie = 'X-Source';
 const sourceMain = 'Your Main Source';
 const sourceExperiment = 'Experimental  Source';
+// Transfering only 5% of the traffic
 const experimentTraffic = 0.05;
 
 // Viewer request handler
